@@ -1,0 +1,19 @@
+{
+  "name": "devoteam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasNascimento/Bucks2Bar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliasNascimento/Bucks2Bar/issues"
+  },
+  "homepage": "https://github.com/EliasNascimento/Bucks2Bar#readme",
+  "description": ""
+}
