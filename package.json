@@ -15,5 +15,8 @@
     "url": "https://github.com/EliasNascimento/Bucks2Bar/issues"
   },
   "homepage": "https://github.com/EliasNascimento/Bucks2Bar#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
 }
